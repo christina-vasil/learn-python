@@ -9,9 +9,9 @@ On the first day, the class will setup a python environment on your laptop.
 You will need a python environment, and IDE to participate in this course. Please download and install the following
 before the course.
 
-1. Download and install [Windows Anaconda 2020.07](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe)
-or [MacOs Anaconda 2020.07](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg)
-2. Download and install [PyCharm Community Edition 2020.2.3](https://www.jetbrains.com/pycharm/download/)
+1. Download and install [Windows Anaconda 2020.05](https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe)
+or [MacOs Anaconda 2020.05](https://repo.anaconda.com/archive/Anaconda3-2021.05-MacOSX-x86_64.pkg)
+2. Download and install [PyCharm Community Edition 2021.2.3](https://www.jetbrains.com/pycharm/download/)
 
 ### Further Notes
 
