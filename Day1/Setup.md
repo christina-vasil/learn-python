@@ -11,7 +11,7 @@ before the course.
 
 1. Download and install [Windows Anaconda 2020.07](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe)
 or [MacOs Anaconda 2020.07](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg)
-2. Download and install [PyCharm Community Edition 2020.2.3](https://www.jetbrains.com/pycharm/download/)
+2. Download and install [PyCharm Community Edition 2021.2.3](https://www.jetbrains.com/pycharm/download/)
 
 ### Further Notes
 
